@@ -1,0 +1,70 @@
+:root {
+--background-color: #2F303A;
+--background-color: #FFFFFF;
+--background: #2196F3;
+--background: #2F303A;
+--background: #F5F4FA;
+}
+
+
+
+
+header{
+    background-color: #2F303A;
+}
+
+nav{
+    background-color: #FFFFFF;
+}
+
+button{
+    background: #2196F3;
+    width: 216px;
+    height: 50px;
+}
+
+.footer{
+    background: #2F303A;
+}
+
+.H2{
+    background: #F5F4FA;
+
+}
+
+
+.ul-li{
+    color: #FFFFFF;
+}
+
+.link-a{
+    color:  #FFFFFF99;
+}
+
+.title{
+    color: #FFFFFF;
+}
+
+.button{
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
